@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.App{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  position: relative;
+}
+.cart-container{
+  position: relative;
+}
