@@ -1,0 +1,25 @@
+.meal{
+    border: 2px solid burlywood;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+.meal img {
+    width: 400px;
+    border-radius: 20px;
+}
+.meal button {
+    margin: 20px;
+    padding: 20px;
+    background-color: brown;
+    color: azure;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.meal button:hover{
+    background-color: rgb(204, 160, 160);
+    color: black;
+    transition-duration: 2s;
+    cursor: pointer;
+}
